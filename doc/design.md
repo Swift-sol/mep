@@ -12,3 +12,6 @@ Information about what is the project make of and how all parts are connected.
 
 <img src="images/map_of_tecnologies.png" style="zoom: 67%;" />
 
+## General structure design and application design 
+
+<img src="images/design_16_07_20.png" style="zoom:80%;" />
