@@ -14,6 +14,8 @@ Information about what is the project make of and how all parts are connected.
 
 ## General structure design and application design 
 
+`Version 0` -  `16-07-2020`
+
 <img src="images/design_16_07_20.png" style="zoom:80%;" />
 
 ![](images/design-chat_16_07_20.png)
