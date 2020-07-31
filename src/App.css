@@ -1,0 +1,11 @@
+.MuiContainer-root{
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.MuiPaper-root{
+  margin: 10px;
+  width: 20vw;
+}

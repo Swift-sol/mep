@@ -7,10 +7,21 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
         <Bar/>
        <CssBaseline />
-      <Container maxWidth="sm">
+      <Container maxWidth="lg">
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
+        <Card/>
         <Card/>
       </Container>
     </div>
